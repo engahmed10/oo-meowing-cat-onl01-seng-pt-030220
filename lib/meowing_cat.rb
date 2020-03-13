@@ -5,10 +5,9 @@ attr_accessor :name
 
 
    def meow
-      
+
    end
 end
 
-namecat = Cat.new 
+namecat = Cat.new
 namecat.name = "Boby"
-
