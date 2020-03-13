@@ -11,3 +11,4 @@ end
 
 namecat = Cat.new
 namecat.name = "Boby"
+namecat.meow 
