@@ -1,8 +1,6 @@
-## code your solution here. 
-class 
+## code your solution here.
+class
 
-attr_accessor :name  
-  
+attr_accessor :name
+
 end
-
-
