@@ -8,3 +8,7 @@ attr_accessor :name
       
    end
 end
+
+namecat = Cat.new 
+namecat.name = "Boby"
+
